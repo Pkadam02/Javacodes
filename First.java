@@ -2,8 +2,8 @@ public class First
 {
 	public static void main(String args[])	
 	{
-		System.out.println("Hello Everyone...");
-		System.out.println("Git Lecture");
-		System.out.println("New lone");
+		int a = 20;
+		int b = 10;
+		System.out.println(a+b);
 	}
 }
